@@ -1,0 +1,345 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1727064178340502, "dur":23449, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727064178363957, "dur":126, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727064178364125, "dur":334, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727064178364756, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1727064178366033, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727064178366122, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727064178366317, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727064178366551, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727064178366619, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727064178366756, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727064178367076, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727064178367221, "dur":120, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727064178367516, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727064178367695, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727064178367887, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727064178368211, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1727064178368389, "dur":118, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1727064178364489, "dur":4036, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727064178368526, "dur":199941, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727064178568468, "dur":165, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727064178568739, "dur":1904, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1727064178365002, "dur":3707, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178368713, "dur":740, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178369453, "dur":3720, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178373174, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1727064178373469, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178397299, "dur":3094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1727064178400510, "dur":4787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178405366, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178405435, "dur":4995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178410521, "dur":7145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178417748, "dur":1869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178419679, "dur":610, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178420320, "dur":1764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178422188, "dur":1520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178423760, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178424008, "dur":3164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178427213, "dur":593, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178427904, "dur":3667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178431665, "dur":1453, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178433145, "dur":3390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178436600, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178436791, "dur":6355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178443230, "dur":761, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178444035, "dur":12342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178456428, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178456565, "dur":3878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178460529, "dur":1955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727064178462542, "dur":4571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1727064178472439, "dur":739, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178467198, "dur":6020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1727064178473305, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727064178473379, "dur":2254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/level2" }}
+,{ "pid":12345, "tid":1, "ts":1727064178475687, "dur":3447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1727064178479169, "dur":89221, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178364955, "dur":3612, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178368573, "dur":720, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178369293, "dur":331, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178369624, "dur":3585, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178373210, "dur":276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1727064178373487, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178398815, "dur":3826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1727064178402717, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178402818, "dur":4959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727064178407824, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178407930, "dur":5927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727064178414072, "dur":12099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727064178426205, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178426292, "dur":14304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727064178440710, "dur":1591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727064178442444, "dur":5703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727064178448248, "dur":1294, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178449567, "dur":2659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727064178452353, "dur":1201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727064178453666, "dur":2408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727064178456114, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178456265, "dur":5232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727064178461542, "dur":267, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727064178461839, "dur":4843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727064178466758, "dur":8122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1727064178475019, "dur":3109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1727064178478185, "dur":90175, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178365010, "dur":3624, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178368639, "dur":731, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178369370, "dur":3727, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178373107, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178374755, "dur":2223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1727064178376984, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1727064178376982, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1727064178377118, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178377871, "dur":1998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1727064178379962, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1727064178380321, "dur":1355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1727064178381716, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1727064178382151, "dur":1311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1727064178383494, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1727064178383492, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1727064178383647, "dur":3314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1727064178387027, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178387012, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178387178, "dur":87, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178387481, "dur":13470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178400997, "dur":275, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178401293, "dur":4416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178405751, "dur":293, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178406088, "dur":5883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178412198, "dur":6312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178418636, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178418756, "dur":3960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178422850, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178422989, "dur":3055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178426086, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178426282, "dur":9206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178435555, "dur":227, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178450130, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178435817, "dur":14410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178450406, "dur":2708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178453164, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178453277, "dur":2629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178456004, "dur":212, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178456239, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178458370, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727064178458450, "dur":3978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178462470, "dur":426, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178462468, "dur":430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178462969, "dur":36046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727064178499154, "dur":69203, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727064178364949, "dur":3593, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727064178368547, "dur":4546, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727064178382648, "dur":137, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727064178384202, "dur":1664, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":4, "ts":1727064178385872, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1727064178385983, "dur":9689, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1727064178395695, "dur":126, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1727064178396117, "dur":126, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Blais\\wkspaces\\Zombie Crossing\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727064178396245, "dur":226, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Blais\\wkspaces\\Zombie Crossing\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727064178396473, "dur":417, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Blais\\wkspaces\\Zombie Crossing\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727064178396892, "dur":603, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Blais\\wkspaces\\Zombie Crossing\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727064178397497, "dur":828, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Blais\\wkspaces\\Zombie Crossing\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727064178398327, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Blais\\wkspaces\\Zombie Crossing\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727064178398430, "dur":567, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Blais\\wkspaces\\Zombie Crossing\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727064178399111, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727064178385870, "dur":13565, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1727064178399891, "dur":70, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727064178399965, "dur":103, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727064178400912, "dur":163502, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1727064178567310, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1727064178567309, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1727064178567436, "dur":892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1727064178365139, "dur":3604, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178368746, "dur":1046, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178369792, "dur":3383, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178373175, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1727064178373303, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178385463, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178383085, "dur":2480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1727064178385647, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178385645, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178386051, "dur":3145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178389232, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1727064178389932, "dur":9583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1727064178399713, "dur":229, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178399987, "dur":3063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178403248, "dur":7687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178411118, "dur":1392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178412610, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178412700, "dur":2841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178415627, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178415733, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178420602, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178418107, "dur":2579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178420827, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178422487, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178424203, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178422585, "dur":1715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178424348, "dur":281, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178424652, "dur":2547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178427268, "dur":539, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178427855, "dur":6724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178434622, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178434772, "dur":2614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178437446, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178437517, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178437592, "dur":2959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178440712, "dur":8237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178449064, "dur":20045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727064178469153, "dur":315, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727064178469493, "dur":10988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1727064178480520, "dur":87842, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178364994, "dur":3627, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178368626, "dur":708, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178369334, "dur":3874, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178373220, "dur":253, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1727064178373209, "dur":265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1727064178373475, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178398077, "dur":3917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1727064178402097, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178402258, "dur":5012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178407385, "dur":3727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178411231, "dur":2097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178413389, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178413558, "dur":3315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178416932, "dur":462, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178417414, "dur":2173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178419642, "dur":663, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178420323, "dur":5270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178425639, "dur":256, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178425916, "dur":4112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178430092, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178430230, "dur":8337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178438684, "dur":5441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178444226, "dur":702, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178444953, "dur":5525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178450519, "dur":348, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178450917, "dur":5715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178456790, "dur":248, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727064178457059, "dur":3133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178460275, "dur":3947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727064178464309, "dur":2114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":6, "ts":1727064178466518, "dur":7444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":6, "ts":1727064178474059, "dur":1697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1727064178475833, "dur":1817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1727064178477684, "dur":90697, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178365055, "dur":3680, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178368738, "dur":680, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178369418, "dur":3710, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178373139, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1727064178373129, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1727064178375486, "dur":2058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1727064178377577, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1727064178377683, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178377840, "dur":1647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1727064178379524, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1727064178379522, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1727064178379814, "dur":1369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1727064178381213, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1727064178382739, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178381361, "dur":1501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1727064178382912, "dur":286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1727064178383286, "dur":1669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1727064178385025, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1727064178385359, "dur":1751, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178387121, "dur":87, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178387866, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1727064178390165, "dur":379, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178390648, "dur":2660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178398866, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178393459, "dur":5523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178399157, "dur":5258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178404546, "dur":580, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178405156, "dur":5168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178410437, "dur":2457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178413094, "dur":442, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178413556, "dur":3725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178417345, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178417420, "dur":6275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178423883, "dur":286, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178424181, "dur":76, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178424262, "dur":3904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178428219, "dur":1472, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178429905, "dur":9058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178439343, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178439483, "dur":9514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178449120, "dur":3721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178452939, "dur":1735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178454731, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178454829, "dur":2743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178457616, "dur":261, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178457905, "dur":2533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178460523, "dur":2565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727064178463138, "dur":1333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1727064178464554, "dur":5360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1727064178469954, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727064178470048, "dur":1156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1727064178471347, "dur":1119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1727064178472515, "dur":1207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/level2.resS" }}
+,{ "pid":12345, "tid":7, "ts":1727064178473774, "dur":1872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/level1.resS" }}
+,{ "pid":12345, "tid":7, "ts":1727064178475700, "dur":1922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1727064178477663, "dur":90717, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178365048, "dur":3676, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178368730, "dur":753, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178369484, "dur":3643, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178373136, "dur":113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1727064178373128, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1727064178374060, "dur":4568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1727064178378656, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1727064178379060, "dur":995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1727064178380120, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1727064178380118, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1727064178380348, "dur":1400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1727064178381780, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1727064178381779, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1727064178382097, "dur":1740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1727064178383876, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1727064178384294, "dur":3599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1727064178389798, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178388126, "dur":1761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing.exe" }}
+,{ "pid":12345, "tid":8, "ts":1727064178390567, "dur":3416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178394063, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178398090, "dur":102, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178394190, "dur":4036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178398393, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178398484, "dur":2609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178401160, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178401351, "dur":4587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178406060, "dur":7033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178413148, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178413253, "dur":1934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178417633, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178415258, "dur":2453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178417806, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178417878, "dur":3198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178421136, "dur":185, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178421346, "dur":1450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178422850, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178422991, "dur":2023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178432671, "dur":204, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178425252, "dur":7640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178433038, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178433309, "dur":5795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178439186, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178439264, "dur":63, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178439331, "dur":1674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178441131, "dur":2598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178443826, "dur":2255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178446123, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178446196, "dur":3973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178450256, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178452587, "dur":148, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178450343, "dur":2415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178452928, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178453107, "dur":2534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178455697, "dur":304, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178456051, "dur":4438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178460563, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178460718, "dur":1663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727064178462490, "dur":3234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":8, "ts":1727064178473583, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178465804, "dur":7843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1727064178476601, "dur":432, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727064178474024, "dur":3021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/CPSC_Courses/Personal/Builds/ZombieCrossing/Zombie Crossing_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1727064178477116, "dur":91346, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727064178573809, "dur":1237, "ph":"X", "name": "ProfilerWriteOutput" }
+,
